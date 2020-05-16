@@ -6,5 +6,6 @@ public class Test01 {
         list.add("a");
         list.add("b");
         System.out.println(list);
+        System.out.println("a");
     }
 }
