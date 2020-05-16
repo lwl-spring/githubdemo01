@@ -1,9 +1,10 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+
 public class Test01 {
     public static void main(String[] args) {
-        Map<String,String> map=new HashMap<>();
-        map.put("z","zz");
-        System.out.println(map);
+        List list=new ArrayList<>();
+        list.add("a");
+        list.add("a");
+        System.out.println(list);
     }
 }
