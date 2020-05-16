@@ -4,12 +4,6 @@ import java.util.List;
 import java.util.Map;
 public class Test01 {
     public static void main(String[] args) {
-        Map<String,String> map=new HashMap<>();
-        map.put("z","zz");
-        map.put("z","zz");
-        System.out.println(map);
-        List list=new ArrayList<>();
-        list.add("a");
-        System.out.println(list);
+        System.out.println("a");
     }
 }
